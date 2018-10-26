@@ -3,9 +3,9 @@ Paper Hightlights
 
 # ICLR 2016
 - [Neural Architecture Search with Reinforcement Learning](https://openreview.net/pdf?id=r1Ue8Hcxg)
-> []Need More reading
+> [x]Need More reading
 - [Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data](https://openreview.net/pdf?id=HkwoSDPgg)
-> []Need More reading
+> [x]Need More reading
 - [Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer](https://openreview.net/pdf?id=Sks9_ajex)
 > Famous Attention Transfer
 - [Learning to Optimize](https://openreview.net/pdf?id=ry4Vrt5gl)
