@@ -1,6 +1,9 @@
-# Awesome Knowledge Distillation
-Paper Hightlights
-
+# Paper Hightlights
+# ICML 2018
+## Orals
+- [Transfer Learning via Learning to Transfer](http://proceedings.mlr.press/v80/wei18a.html)
+- [Asynchronous Decentralized Parallel Stochastic Gradient Descent](http://proceedings.mlr.press/v80/lian18a.html)
+- [D2:Decentralized Training over Decentralized Data](http://proceedings.mlr.press/v80/tang18a.html)
 # ICLR 2016
 ## Accept Papers
 - [Neural Architecture Search with Reinforcement Learning](https://openreview.net/pdf?id=r1Ue8Hcxg)
