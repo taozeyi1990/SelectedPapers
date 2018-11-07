@@ -4,6 +4,21 @@
 - [Transfer Learning via Learning to Transfer](http://proceedings.mlr.press/v80/wei18a.html)
 - [Asynchronous Decentralized Parallel Stochastic Gradient Descent](http://proceedings.mlr.press/v80/lian18a.html)
 - [D2:Decentralized Training over Decentralized Data](http://proceedings.mlr.press/v80/tang18a.html)
+- [Stochastic Variance-Reduced Cubic Regularized Newton Methods](http://proceedings.mlr.press/v80/zhou18d.html)
+- [Communication-Computation Efficient Gradient Coding](http://proceedings.mlr.press/v80/ye18a.html)
+- [Fast Variance Reduction Method with Stochastic Batch Size](http://proceedings.mlr.press/v80/liu18f.html)
+- [A Simple Stochastic Variance Reduced Algorithm with Fast Convergence Rates](http://proceedings.mlr.press/v80/zhou18c.html)
+- [Compressing Neural Networks using the Variational Information Bottleneck](http://proceedings.mlr.press/v80/dai18d.html)
+- [Asynchronous Stochastic Quasi-Newton MCMC for Non-Convex Optimization](http://proceedings.mlr.press/v80/simsekli18a.html)
+- [Improved Training of Generative Adversarial Networks Using Representative Features](http://proceedings.mlr.press/v80/bang18a.html)
+- [Knowledge Transfer with Jacobian Matching](http://proceedings.mlr.press/v80/srinivas18a.html)
+- [Differentially Private Identity and Equivalence Testing of Discrete Distributions](http://proceedings.mlr.press/v80/aliakbarpour18a.html)
+
+## Parallel and Distributed Learning Seesion
+- [The Hidden Vulnerability of Distributed Learning in Byzantium](http://proceedings.mlr.press/v80/mhamdi18a.html)
+- [Asynchronous Byzantine Machine Learning (the case of SGD)](http://proceedings.mlr.press/v80/damaskinos18a.html)
+- [DRACO: Byzantine-resilient Distributed Training via Redundant Gradients](http://proceedings.mlr.press/v80/chen18l.html)
+
 # ICLR 2016
 ## Accept Papers
 - [Neural Architecture Search with Reinforcement Learning](https://openreview.net/pdf?id=r1Ue8Hcxg)
