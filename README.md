@@ -1,4 +1,4 @@
-# Paper Hightlights
+# Paper Highlights
 # ICML 2018
 ## Orals
 - [Transfer Learning via Learning to Transfer](http://proceedings.mlr.press/v80/wei18a.html)
@@ -14,7 +14,7 @@
 - [Knowledge Transfer with Jacobian Matching](http://proceedings.mlr.press/v80/srinivas18a.html)
 - [Differentially Private Identity and Equivalence Testing of Discrete Distributions](http://proceedings.mlr.press/v80/aliakbarpour18a.html)
 
-## Parallel and Distributed Learning Seesion
+## Parallel and Distributed Learning Session
 - [The Hidden Vulnerability of Distributed Learning in Byzantium](http://proceedings.mlr.press/v80/mhamdi18a.html)
 - [Asynchronous Byzantine Machine Learning (the case of SGD)](http://proceedings.mlr.press/v80/damaskinos18a.html)
 - [DRACO: Byzantine-resilient Distributed Training via Redundant Gradients](http://proceedings.mlr.press/v80/chen18l.html)
